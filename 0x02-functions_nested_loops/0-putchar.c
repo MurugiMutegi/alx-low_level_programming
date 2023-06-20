@@ -1,9 +1,3 @@
-/*
- * File: 0-putchar.c
- * Auth: Murugi Mutegi
- *
- */
-
 #include "main.h"
 
 /**
